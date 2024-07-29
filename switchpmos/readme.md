@@ -8,6 +8,6 @@ El uso de un PCB flexible en este diseño proporciona varias ventajas, especialm
 
 ## Screenshots
 
-![](hhttps://github.com/electgpl/jlcpcb/blob/main/switchpmos/Captura%20de%20pantalla%202024-07-29%20103144.png)
+![](https://raw.githubusercontent.com/electgpl/jlcpcb/main/switchpmos/Captura%20de%20pantalla%202024-07-29%20103144.png)
 ![](https://github.com/electgpl/jlcpcb/blob/main/switchpmos/Sin%20nombre.png)
 ![](https://github.com/electgpl/jlcpcb/blob/main/switchpmos/0x0.png)
